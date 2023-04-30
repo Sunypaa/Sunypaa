@@ -71,6 +71,20 @@ div.custom-bga {
   background-size:100%;
 }
 
+div.custom-bgu {
+  padding-top:250px;
+  background: url(./images/unity.webp);
+  background-repeat:no-repeat;
+  background-size:100%;
+}
+
+div.custom-bgs {
+  padding-top:250px;
+  background: url(./images/service.webp);
+  background-repeat:no-repeat;
+  background-size:100%;
+}
+
 @media only screen and (max-width: 600px) {
   div.custom {
     background-image: none;
