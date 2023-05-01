@@ -87,6 +87,18 @@ div.custom-bgs {
 
 @media only screen and (max-width: 600px) {
   div.custom {
-    background-image: none;
+    background-position-x:100;
+    background-position-y: 100;
+    background-size: 100%;
+}
+h2.h2-customized {
+  color:rgb(2, 2, 2);
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+h1.h1-customized {
+  color:rgb(0, 0, 0);
+  font-size: 5rem;
+  font-weight: 800;
 }
 }
